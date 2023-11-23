@@ -1,0 +1,374 @@
+\begin{thebibliography}{38}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Allen et~al.(2006)Allen, Garmestani, Havlicek, A, Peterson, Restrepo,
+  Stow and Weeks}]{Allen_etAl_bodysize_Ecol_Letters_2006}
+\bibinfo{author}{Allen, C.R.}, \bibinfo{author}{Garmestani, A.S.},
+  \bibinfo{author}{Havlicek, T.D.}, \bibinfo{author}{A, M.P.},
+  \bibinfo{author}{Peterson, G.D.}, \bibinfo{author}{Restrepo, C.},
+  \bibinfo{author}{Stow, C.A.}, \bibinfo{author}{Weeks, B.E.},
+  \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{Patterns in body mass distributions: sifting among
+  alternative hypotheses}.
+\newblock \bibinfo{journal}{Ecology Letters} \bibinfo{volume}{9},
+  \bibinfo{pages}{630--643}.
+\newblock \DOIprefix\doi{10.1111/j.1461-0248.2006.00902.x}.
+%Type = Article
+\bibitem[{Al{\`o} et~al.(2021)Al{\`o}, Lacy, Castillo, Samaniego and
+  Marquet}]{alo2021macroecology}
+\bibinfo{author}{Al{\`o}, D.}, \bibinfo{author}{Lacy, S.N.},
+  \bibinfo{author}{Castillo, A.}, \bibinfo{author}{Samaniego, H.A.},
+  \bibinfo{author}{Marquet, P.A.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{The macroecology of fish migration}.
+\newblock \bibinfo{journal}{Global Ecology and Biogeography}
+  \bibinfo{volume}{30}, \bibinfo{pages}{99--116}.
+%Type = Article
+\bibitem[{Beck et~al.(2014)Beck, B{\"o}ller, Erhardt and
+  Schwanghart}]{beck2014}
+\bibinfo{author}{Beck, J.}, \bibinfo{author}{B{\"o}ller, M.},
+  \bibinfo{author}{Erhardt, A.}, \bibinfo{author}{Schwanghart, W.},
+  \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Spatial bias in the gbif database and its effect on
+  modeling species' geographic distributions}.
+\newblock \bibinfo{journal}{Ecological Informatics} \bibinfo{volume}{19},
+  \bibinfo{pages}{10--15}.
+%Type = Article
+\bibitem[{Boettiger et~al.(2012)Boettiger, Lang and
+  Wainwright}]{boettiger2012rfishbase}
+\bibinfo{author}{Boettiger, C.}, \bibinfo{author}{Lang, D.T.},
+  \bibinfo{author}{Wainwright, P.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{rfishbase: exploring, manipulating and visualizing
+  fishbase data from r}.
+\newblock \bibinfo{journal}{Journal of Fish Biology} \bibinfo{volume}{81},
+  \bibinfo{pages}{2030--2039}.
+%Type = Misc
+\bibitem[{Chamberlain(2017)}]{chamberlain2017}
+\bibinfo{author}{Chamberlain, S.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{rgbif: Interface to the global “biodiversity”
+  information facility “api”. r package version 0.9.8.}
+\newblock \URLprefix \url{https://CRAN.R-project.org/packa ge=rgbif}.
+%Type = Article
+\bibitem[{Chandler et~al.(2017)Chandler, See, Copas, Bonde, L{\'o}pez,
+  Danielsen, Legind, Masinde, Miller-Rushing, Newman et~al.}]{chandler2017}
+\bibinfo{author}{Chandler, M.}, \bibinfo{author}{See, L.},
+  \bibinfo{author}{Copas, K.}, \bibinfo{author}{Bonde, A.M.},
+  \bibinfo{author}{L{\'o}pez, B.C.}, \bibinfo{author}{Danielsen, F.},
+  \bibinfo{author}{Legind, J.K.}, \bibinfo{author}{Masinde, S.},
+  \bibinfo{author}{Miller-Rushing, A.J.}, \bibinfo{author}{Newman, G.}, et~al.,
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Contribution of citizen science towards international
+  biodiversity monitoring}.
+\newblock \bibinfo{journal}{Biological conservation} \bibinfo{volume}{213},
+  \bibinfo{pages}{280--294}.
+\newblock \DOIprefix\doi{10.1016/j.biocon.2016.09.004}.
+%Type = Article
+\bibitem[{Cheung et~al.(2009)Cheung, Lam, Sarmiento, Kearney, Watson and
+  Pauly}]{cheung2009}
+\bibinfo{author}{Cheung, W.W.}, \bibinfo{author}{Lam, V.W.},
+  \bibinfo{author}{Sarmiento, J.L.}, \bibinfo{author}{Kearney, K.},
+  \bibinfo{author}{Watson, R.}, \bibinfo{author}{Pauly, D.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{Projecting global marine biodiversity impacts under
+  climate change scenarios}.
+\newblock \bibinfo{journal}{Fish and fisheries} \bibinfo{volume}{10},
+  \bibinfo{pages}{235--251}.
+%Type = Article
+\bibitem[{Chollett and
+  Robertson(2020)}]{chollettComparingBiodiversityDatabases2020}
+\bibinfo{author}{Chollett, I.}, \bibinfo{author}{Robertson, D.R.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Comparing biodiversity databases: {Greater}
+  {Caribbean} reef fishes as a case study}.
+\newblock \bibinfo{journal}{Fish and Fisheries} \bibinfo{volume}{21},
+  \bibinfo{pages}{1195--1212}.
+\newblock \DOIprefix\doi{10.1111/faf.12497}.
+%Type = Article
+\bibitem[{Costello et~al.((2017))Costello, Tsai, Wong, Cheung, Basher and
+  Chaudhary}]{costello2017marine}
+\bibinfo{author}{Costello, M.J.}, \bibinfo{author}{Tsai, P.},
+  \bibinfo{author}{Wong, P.S.}, \bibinfo{author}{Cheung, A.K.L.},
+  \bibinfo{author}{Basher, Z.}, \bibinfo{author}{Chaudhary, C.},
+  \bibinfo{year}{(2017)}.
+\newblock \bibinfo{title}{Marine biogeographic realms and species endemicity}.
+\newblock \bibinfo{journal}{Nature communications} \bibinfo{volume}{8},
+  \bibinfo{pages}{1--10}.
+%Type = Misc
+\bibitem[{{FAO}(2014)}]{fao2014}
+\bibinfo{author}{{FAO}}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Fao statistical areas for fishery purposes. fao
+  fisheries and aquaculture department [online]}.
+\newblock \URLprefix \url{http://www.fao.org/fishery/area/search/en}.
+%Type = Misc
+\bibitem[{Froese and Pauly(2021)}]{froese2021fishbase}
+\bibinfo{author}{Froese, R.}, \bibinfo{author}{Pauly, D.E.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Fishbase}.
+%Type = Article
+\bibitem[{Garc{\'\i}a-Rosell{\'o} et~al.(2015)Garc{\'\i}a-Rosell{\'o},
+  Guisande, Manjarr{\'e}s-Hern{\'a}ndez, Gonz{\'a}lez-Dacosta, Heine,
+  Pelayo-Villamil, Gonz{\'a}lez-Vilas, Vari, Vaamonde, Granado-Lorencio
+  et~al.}]{garcia2015}
+\bibinfo{author}{Garc{\'\i}a-Rosell{\'o}, E.}, \bibinfo{author}{Guisande, C.},
+  \bibinfo{author}{Manjarr{\'e}s-Hern{\'a}ndez, A.},
+  \bibinfo{author}{Gonz{\'a}lez-Dacosta, J.}, \bibinfo{author}{Heine, J.},
+  \bibinfo{author}{Pelayo-Villamil, P.}, \bibinfo{author}{Gonz{\'a}lez-Vilas,
+  L.}, \bibinfo{author}{Vari, R.P.}, \bibinfo{author}{Vaamonde, A.},
+  \bibinfo{author}{Granado-Lorencio, C.}, et~al., \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Can we derive macroecological patterns from primary
+  global biodiversity information facility data?}
+\newblock \bibinfo{journal}{Global Ecology and Biogeography}
+  \bibinfo{volume}{24}, \bibinfo{pages}{335--347}.
+%Type = Misc
+\bibitem[{{GBIF: The Global Biodiversity Information Facility }(2021)}]{gbif}
+\bibinfo{author}{{GBIF: The Global Biodiversity Information Facility }},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{What is gbif?}
+\newblock \URLprefix \url{https://www.gbif.org/what-is-gbif}.
+%Type = Article
+\bibitem[{Giraud and Lambert(2016)}]{giraud2016cartography}
+\bibinfo{author}{Giraud, T.}, \bibinfo{author}{Lambert, N.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{cartography: Create and integrate maps in your r
+  workflow}.
+\newblock \bibinfo{journal}{Journal of Open Source Software}
+  \bibinfo{volume}{1}, \bibinfo{pages}{54}.
+%Type = Article
+\bibitem[{Hortal et~al.(2008)Hortal, Jim{\'e}nez-Valverde, G{\'o}mez, Lobo and
+  Baselga}]{hortal2008}
+\bibinfo{author}{Hortal, J.}, \bibinfo{author}{Jim{\'e}nez-Valverde, A.},
+  \bibinfo{author}{G{\'o}mez, J.F.}, \bibinfo{author}{Lobo, J.M.},
+  \bibinfo{author}{Baselga, A.}, \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{Historical bias in biodiversity inventories affects
+  the observed environmental niche of the species}.
+\newblock \bibinfo{journal}{Oikos} \bibinfo{volume}{117},
+  \bibinfo{pages}{847--858}.
+%Type = Article
+\bibitem[{Jin and Yang(2020)}]{jin2020bdcleaner}
+\bibinfo{author}{Jin, J.}, \bibinfo{author}{Yang, J.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Bdcleaner: A workflow for cleaning taxonomic and
+  geographic errors in occurrence data archived in biodiversity databases}.
+\newblock \bibinfo{journal}{Global Ecology and Conservation}
+  \bibinfo{volume}{21}, \bibinfo{pages}{e00852}.
+%Type = Article
+\bibitem[{Lobo et~al.(2018)Lobo, Hortal, Yela, Mill{\'a}n,
+  S{\'a}nchez-Fern{\'a}ndez, Garc{\'\i}a-Rosell{\'o}, Gonz{\'a}lez-Dacosta,
+  Heine, Gonz{\'a}lez-Vilas and Guisande}]{lobo2018}
+\bibinfo{author}{Lobo, J.M.}, \bibinfo{author}{Hortal, J.},
+  \bibinfo{author}{Yela, J.L.}, \bibinfo{author}{Mill{\'a}n, A.},
+  \bibinfo{author}{S{\'a}nchez-Fern{\'a}ndez, D.},
+  \bibinfo{author}{Garc{\'\i}a-Rosell{\'o}, E.},
+  \bibinfo{author}{Gonz{\'a}lez-Dacosta, J.}, \bibinfo{author}{Heine, J.},
+  \bibinfo{author}{Gonz{\'a}lez-Vilas, L.}, \bibinfo{author}{Guisande, C.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Knowbr: An application to map the geographical
+  variation of survey effort and identify well-surveyed areas from biodiversity
+  databases}.
+\newblock \bibinfo{journal}{Ecological Indicators} \bibinfo{volume}{91},
+  \bibinfo{pages}{241--248}.
+%Type = Book
+\bibitem[{Magurran and McGill(2011)}]{magurran2011}
+\bibinfo{author}{Magurran, A.E.}, \bibinfo{author}{McGill, B.J.},
+  \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Biological diversity: frontiers in measurement and
+  assessment}.
+\newblock \bibinfo{publisher}{Oxford University Press}.
+%Type = Misc
+\bibitem[{Malhi et~al.(2020)Malhi, Franklin, Seddon, Solan, Turner, Field and
+  Knowlton}]{malhi2020climate}
+\bibinfo{author}{Malhi, Y.}, \bibinfo{author}{Franklin, J.},
+  \bibinfo{author}{Seddon, N.}, \bibinfo{author}{Solan, M.},
+  \bibinfo{author}{Turner, M.G.}, \bibinfo{author}{Field, C.B.},
+  \bibinfo{author}{Knowlton, N.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Climate change and ecosystems: Threats, opportunities
+  and solutions}.
+%Type = Article
+\bibitem[{Melo-Merino et~al.(2020)Melo-Merino, Reyes-Bonilla and
+  Lira-Noriega}]{melo2020}
+\bibinfo{author}{Melo-Merino, S.M.}, \bibinfo{author}{Reyes-Bonilla, H.},
+  \bibinfo{author}{Lira-Noriega, A.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Ecological niche models and species distribution
+  models in marine environments: A literature review and spatial analysis of
+  evidence}.
+\newblock \bibinfo{journal}{Ecological Modelling} \bibinfo{volume}{415},
+  \bibinfo{pages}{108837}.
+%Type = Article
+\bibitem[{Mora et~al.(2008)Mora, Tittensor and Myers}]{mora2008completeness}
+\bibinfo{author}{Mora, C.}, \bibinfo{author}{Tittensor, D.P.},
+  \bibinfo{author}{Myers, R.A.}, \bibinfo{year}{2008}.
+\newblock \bibinfo{title}{The completeness of taxonomic inventories for
+  describing the global diversity and distribution of marine fishes}.
+\newblock \bibinfo{journal}{Proceedings of the Royal Society B: Biological
+  Sciences} \bibinfo{volume}{275}, \bibinfo{pages}{149--155}.
+%Type = Article
+\bibitem[{Moudrý and Devillers(2020)}]{moudryQualityUsabilityChallenges2020}
+\bibinfo{author}{Moudrý, V.}, \bibinfo{author}{Devillers, R.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Quality and usability challenges of global marine
+  biodiversity databases: {An} example for marine mammal data}.
+\newblock \bibinfo{journal}{Ecological Informatics} \bibinfo{volume}{56},
+  \bibinfo{pages}{101051}.
+\newblock \DOIprefix\doi{10.1016/j.ecoinf.2020.101051}.
+%Type = Misc
+\bibitem[{{OBIS: Ocean Biodiversity Information System}(2021)}]{obis}
+\bibinfo{author}{{OBIS: Ocean Biodiversity Information System}},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{About obis}.
+\newblock \URLprefix \url{https://obis.org/}.
+%Type = Article
+\bibitem[{Oksanen et~al.(2020)Oksanen, Kindt, Legendre and O’Hara}]{vegan}
+\bibinfo{author}{Oksanen, J.}, \bibinfo{author}{Kindt, R.},
+  \bibinfo{author}{Legendre, P.}, \bibinfo{author}{O’Hara, B.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{The vegan package} .
+%Type = Article
+\bibitem[{Pebesma(2018)}]{pebesma2018simple}
+\bibinfo{author}{Pebesma, E.J.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Simple features for r: standardized support for
+  spatial vector data.}
+\newblock \bibinfo{journal}{R J.} \bibinfo{volume}{10}, \bibinfo{pages}{439}.
+%Type = Article
+\bibitem[{Pelayo-Villamil et~al.(2018)Pelayo-Villamil, Guisande,
+  Manjarr{\'e}s-Hern{\'a}ndez, Jim{\'e}nez, Granado-Lorencio,
+  Garc{\'\i}a-Rosell{\'o}, Gonz{\'a}lez-Dacosta, Heine, Gonz{\'a}lez-Vilas and
+  Lobo}]{pelayo2018}
+\bibinfo{author}{Pelayo-Villamil, P.}, \bibinfo{author}{Guisande, C.},
+  \bibinfo{author}{Manjarr{\'e}s-Hern{\'a}ndez, A.},
+  \bibinfo{author}{Jim{\'e}nez, L.F.}, \bibinfo{author}{Granado-Lorencio, C.},
+  \bibinfo{author}{Garc{\'\i}a-Rosell{\'o}, E.},
+  \bibinfo{author}{Gonz{\'a}lez-Dacosta, J.}, \bibinfo{author}{Heine, J.},
+  \bibinfo{author}{Gonz{\'a}lez-Vilas, L.}, \bibinfo{author}{Lobo, J.M.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Completeness of national freshwater fish species
+  inventories around the world}.
+\newblock \bibinfo{journal}{Biodiversity and Conservation}
+  \bibinfo{volume}{27}, \bibinfo{pages}{3807--3817}.
+%Type = Article
+\bibitem[{Phillips et~al.(2009)Phillips, Dud{\'\i}k, Elith, Graham, Lehmann,
+  Leathwick and Ferrier}]{phillips2009}
+\bibinfo{author}{Phillips, S.J.}, \bibinfo{author}{Dud{\'\i}k, M.},
+  \bibinfo{author}{Elith, J.}, \bibinfo{author}{Graham, C.H.},
+  \bibinfo{author}{Lehmann, A.}, \bibinfo{author}{Leathwick, J.},
+  \bibinfo{author}{Ferrier, S.}, \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{Sample selection bias and presence-only distribution
+  models: implications for background and pseudo-absence data}.
+\newblock \bibinfo{journal}{Ecological applications} \bibinfo{volume}{19},
+  \bibinfo{pages}{181--197}.
+%Type = Misc
+\bibitem[{Provoost and Bosch(2020)}]{provoost2020}
+\bibinfo{author}{Provoost, P.}, \bibinfo{author}{Bosch, S.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{robis: R client to access data from the obis api.
+  ocean biogeographic information system, intergovernmental oceanographic
+  commission of unesco}.
+\newblock \URLprefix \url{https://cran.r-project.org/package=robis}.
+%Type = Misc
+\bibitem[{{R Core Team}(2018)}]{rcore2018}
+\bibinfo{author}{{R Core Team}}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{R: A language and environment for statistical
+  computing. vienna, austria: R foundation for statistical computing}.
+\newblock \URLprefix \url{https://www.R-project.org/}.
+%Type = Book
+\bibitem[{Smith et~al.(2014)Smith, Gittleman and
+  Brown}]{smithFoundationsMacroecologyClassic2014}
+\bibinfo{editor}{Smith, F.A.}, \bibinfo{editor}{Gittleman, J.L.},
+  \bibinfo{editor}{Brown, J.H.} (Eds.), \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Foundations of macroecology: classic papers with
+  commentaries}.
+\newblock \bibinfo{publisher}{University of Chicago Press},
+  \bibinfo{address}{Chicago}.
+\newblock \bibinfo{note}{ZSCC: 0000017}.
+%Type = Article
+\bibitem[{Telenius(2011)}]{telenius2011}
+\bibinfo{author}{Telenius, A.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Biodiversity information goes public: Gbif at your
+  service}.
+\newblock \bibinfo{journal}{Nordic Journal of Botany} \bibinfo{volume}{29},
+  \bibinfo{pages}{378--381}.
+%Type = Article
+\bibitem[{Tittensor et~al.(2010)Tittensor, Mora, Jetz, Lotze, Ricard, Berghe
+  and Worm}]{tittensor2010global}
+\bibinfo{author}{Tittensor, D.P.}, \bibinfo{author}{Mora, C.},
+  \bibinfo{author}{Jetz, W.}, \bibinfo{author}{Lotze, H.K.},
+  \bibinfo{author}{Ricard, D.}, \bibinfo{author}{Berghe, E.V.},
+  \bibinfo{author}{Worm, B.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Global patterns and predictors of marine biodiversity
+  across taxa}.
+\newblock \bibinfo{journal}{Nature} \bibinfo{volume}{466},
+  \bibinfo{pages}{1098--1101}.
+%Type = Article
+\bibitem[{Troia and McManamay(2017)}]{troia2017}
+\bibinfo{author}{Troia, M.J.}, \bibinfo{author}{McManamay, R.A.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Completeness and coverage of open-access freshwater
+  fish distribution data in the united states}.
+\newblock \bibinfo{journal}{Diversity and Distributions} \bibinfo{volume}{23},
+  \bibinfo{pages}{1482--1498}.
+%Type = Article
+\bibitem[{Turner et~al.(2020)Turner, Calder, Cumming, Hughes, Jentsch, LaDeau,
+  Lenton, Shuman, Turetsky, Ratajczak et~al.}]{turner2020climate}
+\bibinfo{author}{Turner, M.G.}, \bibinfo{author}{Calder, W.J.},
+  \bibinfo{author}{Cumming, G.S.}, \bibinfo{author}{Hughes, T.P.},
+  \bibinfo{author}{Jentsch, A.}, \bibinfo{author}{LaDeau, S.L.},
+  \bibinfo{author}{Lenton, T.M.}, \bibinfo{author}{Shuman, B.N.},
+  \bibinfo{author}{Turetsky, M.R.}, \bibinfo{author}{Ratajczak, Z.}, et~al.,
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Climate change, ecosystems and abrupt change: science
+  priorities}.
+\newblock \bibinfo{journal}{Philosophical Transactions of the Royal Society B}
+  \bibinfo{volume}{375}, \bibinfo{pages}{20190105}.
+%Type = Article
+\bibitem[{Wickham et~al.(2021)Wickham, Francois, Henry and
+  M{\"u}ller}]{wickham2021dplyr}
+\bibinfo{author}{Wickham, H.}, \bibinfo{author}{Francois, R.},
+  \bibinfo{author}{Henry, L.}, \bibinfo{author}{M{\"u}ller, K.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{dplyr: A grammar of data manipulation. r package
+  version 1.0.3}.
+\newblock \bibinfo{journal}{R Found. Stat. Comput., Vienna. https://CRAN.
+  R-project. org/package= dplyr} .
+%Type = Article
+\bibitem[{Yang et~al.(2013)Yang, Ma and Kreft}]{yang2013geographical}
+\bibinfo{author}{Yang, W.}, \bibinfo{author}{Ma, K.}, \bibinfo{author}{Kreft,
+  H.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{Geographical sampling bias in a large distributional
+  database and its effects on species richness--environment models}.
+\newblock \bibinfo{journal}{Journal of Biogeography} \bibinfo{volume}{40},
+  \bibinfo{pages}{1415--1426}.
+%Type = Article
+\bibitem[{Yesson et~al.(2007)Yesson, Brewer, Sutton, Caithness, Pahwa, Burgess,
+  Gray, White, Jones, Bisby et~al.}]{yesson2007}
+\bibinfo{author}{Yesson, C.}, \bibinfo{author}{Brewer, P.W.},
+  \bibinfo{author}{Sutton, T.}, \bibinfo{author}{Caithness, N.},
+  \bibinfo{author}{Pahwa, J.S.}, \bibinfo{author}{Burgess, M.},
+  \bibinfo{author}{Gray, W.A.}, \bibinfo{author}{White, R.J.},
+  \bibinfo{author}{Jones, A.C.}, \bibinfo{author}{Bisby, F.A.}, et~al.,
+  \bibinfo{year}{2007}.
+\newblock \bibinfo{title}{How global is the global biodiversity information
+  facility?}
+\newblock \bibinfo{journal}{PloS one} \bibinfo{volume}{2},
+  \bibinfo{pages}{e1124}.
+%Type = Article
+\bibitem[{Zizka et~al.(2020)Zizka, Carvalho, Calvente, Baez-Lizarazo, Cabral,
+  Coelho, Colli-Silva, Fantinati, Fernandes, Ferreira-Ara{\'u}jo
+  et~al.}]{zizka2020}
+\bibinfo{author}{Zizka, A.}, \bibinfo{author}{Carvalho, F.A.},
+  \bibinfo{author}{Calvente, A.}, \bibinfo{author}{Baez-Lizarazo, M.R.},
+  \bibinfo{author}{Cabral, A.}, \bibinfo{author}{Coelho, J.F.R.},
+  \bibinfo{author}{Colli-Silva, M.}, \bibinfo{author}{Fantinati, M.R.},
+  \bibinfo{author}{Fernandes, M.F.}, \bibinfo{author}{Ferreira-Ara{\'u}jo, T.},
+  et~al., \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{No one-size-fits-all solution to clean gbif}.
+\newblock \bibinfo{journal}{PeerJ} \bibinfo{volume}{8}, \bibinfo{pages}{e9916}.
+
+\end{thebibliography}

@@ -1,0 +1,10 @@
+horo@janeiro:~/Dropbox/MS/Peces_2022/ReEnvio_2023$ ls
+ Pizarro_etAl_EcoInf.log   Pizarro_etAl_EcoInf.rip                      ECOINF-D-23-00167.zip   Fig_2.pdf   Fig_5.pdf
+ Pizarro_etAl_EcoInf.pdf   Pizarro_etAl_EcoInf.tex~                     ECOINF-D-23-00167.pdf   Fig_2.png   Fig_5.png
+ Pizarro_etAl_EcoInf.aux   drive-download-20230702T142315Z-001.zip      Fig_B8.pdf              Fig_3.pdf   Fig_AB.pdf
+ Pizarro_etAl_EcoInf.out   old_Figs/                                    Fig_B8.png              Fig_3.png   Fig_AB.png
+ Pizarro_etAl_EcoInf.spl  'Manuscrito - REVISIONES 27 Junio 2023.pdf'   Fig_1.pdf               Fig_4.pdf
+ Pizarro_etAl_EcoInf.tex   CL_Pizarro_etAl.pdf                          Fig_1.png               Fig_4.png
+horo@janeiro:~/Dropbox/MS/Peces_2022/ReEnvio_2023$ rm *rip
+rm: remove regular file 'Pizarro_etAl_EcoInf.rip'? y
+horo@janeiro:~/Dropbox/MS/Peces_2022/ReEnvio_2023$ 
