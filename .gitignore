@@ -50,3 +50,10 @@ rsconnect/
 
 # Specifics
 stp_fishes/
+
+## laTeX stuff
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
