@@ -1,6 +1,6 @@
 # Spatial and temporal representation of marine fish occurrences available online
 
-This is a working manuscript currently nuder consideration to be published in a peer review journal
+This is a working manuscript currently accepted to be published in a peer review journal, Ecological Informatics.
 
 
 ## Abstract
