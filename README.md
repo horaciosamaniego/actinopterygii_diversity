@@ -2,7 +2,7 @@
 
 This is a working manuscript currently accepted to be published in a peer review journal, [Ecological Informatics](https://www.sciencedirect.com/journal/ecological-informatics).
 
-Pizarro, Vanessa, Andrea G. Castillo, Andrea Piñones, and Horacio Samaniego. 2024. “Spatial and Temporal Representation of Marine Fish Occurrences Available Online.” Ecological Informatics 79:102403. doi: [10.1016/j.ecoinf.2023.102403](https://doi.org/10.1016/j.ecoinf.2023.102403).
+> Pizarro, V, A. G. Castillo, A. Piñones, and H. Samaniego. 2024. Spatial and Temporal Representation of Marine Fish Occurrences Available Online. Ecological Informatics 79:102403. doi: [10.1016/j.ecoinf.2023.102403](https://doi.org/10.1016/j.ecoinf.2023.102403).
 
 
 ## Abstract
